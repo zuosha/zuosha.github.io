@@ -1,11 +1,11 @@
 body{
     margin: 1.5em;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Ma Shan Zheng', cursive;
 }
 
 a{
     text-decoration: none;
-    font-size: 1.3rem;
+    font-size: 2.5rem;
 }
 
 .hero-img{
@@ -76,13 +76,13 @@ header{
 }
 
 h1{
-    font-size: 3rem;
+    font-size: 3.3rem;
     margin-top: 2em;
     line-height: 3.3rem;
 }
 
 .subhead{
-    font-size: 1.4rem;
+    font-size: 1.8rem;
 }
 
 section.hero {
@@ -104,6 +104,7 @@ section.hero {
 }
 
 .more-info{
+    // margin-top: 200px;
     img{
         width: 100%;
         object-fit: cover;
@@ -112,10 +113,11 @@ section.hero {
     }
     .title{
         font-weight: bold;
-        font-size: 1.25rem;
+        font-size: 2.5rem;
     }
     .desc{
-        line-height: 1.5rem;
+        // line-height: 1.5rem;
+        font-size: 28px;
     }
 }
 
@@ -127,7 +129,8 @@ section.hero {
 
     body{
         margin: 1.5em 5em;
-        font-family: 'Poppins', sans-serif;
+        // font-family: 'Poppins', sans-serif;
+        font-family: 'Ma Shan Zheng', cursive;
     }
 
 }
@@ -155,7 +158,7 @@ section.hero {
             a{
                 color: #fff;
                 padding: .5em 1.5em;
-                font-size: .9rem;
+                font-size: 1.8rem;
 
                 &:hover{
                     background: none;

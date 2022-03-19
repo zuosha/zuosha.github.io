@@ -1,11 +1,11 @@
 body {
   margin: 1.5em;
-  font-family: "Poppins", sans-serif;
+  font-family: "Ma Shan Zheng", cursive;
 }
 
 a {
   text-decoration: none;
-  font-size: 1.3rem;
+  font-size: 2.5rem;
 }
 
 .hero-img {
@@ -70,13 +70,13 @@ header svg.menu {
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 3.3rem;
   margin-top: 2em;
   line-height: 3.3rem;
 }
 
 .subhead {
-  font-size: 1.4rem;
+  font-size: 1.8rem;
 }
 
 section.hero {
@@ -105,10 +105,10 @@ section.hero svg.down-arrow path {
 }
 .more-info .title {
   font-weight: bold;
-  font-size: 1.25rem;
+  font-size: 2.5rem;
 }
 .more-info .desc {
-  line-height: 1.5rem;
+  font-size: 28px;
 }
 
 .open-nav {
@@ -118,7 +118,7 @@ section.hero svg.down-arrow path {
 @media only screen and (min-width: 680px) {
   body {
     margin: 1.5em 5em;
-    font-family: "Poppins", sans-serif;
+    font-family: "Ma Shan Zheng", cursive;
   }
 }
 @media only screen and (min-width: 960px) {
@@ -144,7 +144,7 @@ section.hero svg.down-arrow path {
   nav ul a {
     color: #fff;
     padding: 0.5em 1.5em;
-    font-size: 0.9rem;
+    font-size: 1.8rem;
   }
   nav ul a:hover {
     background: none;
